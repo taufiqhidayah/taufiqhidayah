@@ -4,7 +4,7 @@
 **taufiqhidayah/taufiqhidayah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working on AIA SINGAPORE PTE.LTD
 - 🌱 I’m currently learning ReactJs, ReactNative as a front end also Node.Js as BE
 - 👯 I’m looking to collaborate on Fullstack
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: twitter.com/taufiqhidayah
 - 😄 Pronouns: xtaufixx
 - ⚡ Fun fact: Lover, Humble
--->
+
